@@ -3,7 +3,7 @@ import "./Card.css"; // import app stylesheet
 
 const Card = ({ name, email, id }) => {
 	return (
-		<div className="bg-blue dib br3 pa3 ma2 grow bw2 shadow-5 tc">
+		<div className="dib br3 pa3 ma2 grow bw2 shadow-5 tc card">
 			<img src={`https://robohash.org/${id}?200x200`} alt="robots" />
 			<div>
 				<h2>{name}</h2>
