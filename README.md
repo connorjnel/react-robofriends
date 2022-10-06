@@ -1,3 +1,3 @@
 # Robofriends
 
-Simple App card create and filtering
+Simple App with card create and filtering
