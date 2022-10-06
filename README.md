@@ -1,3 +1,3 @@
 # Robofriends
 
-Simple App with image and info pull from API and filtering
+Simple App card create and filtering
